@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="number" id = "numberInput" placeholder="숫자를 입력하세요">
+    <button onclick="Result('add')" > 더하기 </button>
+    <button onclick="Result('sub')" > 빼기 </button>
+    <button onclick="Result('mul')" > 곱하기 </button>
+    <button onclick="Result('div')" > 나누기 </button>
+
+
+<script src = a_exam.js>
+
+    </script>
+
+
+
+</body>
+</html>
+
+
+
+
